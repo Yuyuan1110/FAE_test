@@ -1,0 +1,1 @@
+CPU0.0%;Memory51.29%;Disk12%
